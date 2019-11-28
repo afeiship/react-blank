@@ -6,11 +6,11 @@
 npm install -S @feizheng/react-blank
 ```
 ## properties
-| property        | type | description |
-| --------------- | ---- | ----------- |
-| className       | -    | -           |
-| value           | -    | -           |
-| onChange        | -    | -           |
+| property  | type   | default |
+| --------- | ------ | ------- |
+| className | -      | -       |
+| value     | Number | -       |
+| unit      | String | unit    |
 
 ## usage
 1. import css
